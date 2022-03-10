@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">FncyTomato</a> 👋
+Hi there, I'm <a href="https://www.tomato/" target="_blank" rel="noreferrer">FncyTomato</a> 👋
 </h3>
 
 ### 🤝 Connect with me:
