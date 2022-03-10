@@ -1,0 +1,21 @@
+#seconds = 0
+do();
+
+status = isrunning("<filename>")
+   if(status)
+     setproperty("statistics","visible","true")
+    elseif(!status)
+     setproperty("statistics","visible","false")
+    endif;
+
+    @#count = GETITEMSTACKSIZE("Mutant Nether Wart");
+    @#count2 = GETITEMSTACKSIZE("Enchanted Nether Wart");
+    @#count3 = GETITEMSTACKSIZE("Nether Wart");
+    @#currentprice = (@#count * 76800) + (@#count2 * 480)
+
+    inc(#seconds, 1)
+    wait(1)
+setlabel("statistics","\n&7&m----&f &6&lGENERAL STATS &7&m----\n&eName: &6%PLAYER%\n&eScript Runtime: &6%#hoursleft%%#hours%:%#minutesleft%%#minutes%:%#secondsleft%%#secondsleft% \n&eMutant Nether Wart: &6%@#count% \n&eEnchanted Nether Wart: &6%@#count2% \n&eNether Wart: &6%@#count3% \n&eInventory worth: &6$%@#currentprice%");
+endif;
+
+loop();
