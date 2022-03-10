@@ -39,4 +39,4 @@ Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fncytomato&layout=compact)](https://github.com/fncytomato)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=fncytomato.fncytomato)](https://www.tomato.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=fncytomato.fncytomato)](https://www.tomato/)
