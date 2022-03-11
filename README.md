@@ -19,7 +19,7 @@ Hi there, I'm <a href="https://www.tomato/" target="_blank" rel="noreferrer">Fnc
 
 - Making MKB scripts
 
-## 🌱 I'm planning on learning
+## 🌱 I'm currently learning
 
 - ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 - Java
