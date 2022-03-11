@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.tomato/" target="_blank" rel="noreferrer">FncyTomato</a> 👋
+Hi there, I'm <a href="https://www.totallytomato.com/" target="_blank" rel="noreferrer">FncyTomato</a> 👋
 </h3>
 
 ### 🤝 Connect with me:
@@ -17,7 +17,7 @@ Hi there, I'm <a href="https://www.tomato/" target="_blank" rel="noreferrer">Fnc
 
 ## 🔭 I'm currently working on
 
-- Making MKB scripts
+- Java discord bot & java hypixel skyblock mods
 
 ## 🌱 I'm currently learning
 
